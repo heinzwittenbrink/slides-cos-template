@@ -154,7 +154,8 @@ Credits: Lisa Moore
 
 ## Zentrale Themen
 
-Zu jeder Content-Strategie gehört ein Konzept für
+Zu jeder Content-Strategie gehört ein Konzept für: 
+
 - User Requirements
 - Branding/Kernbotschaften
 - Inhaltsmodell
